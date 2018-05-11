@@ -1,0 +1,3 @@
+app.c:25:6:app_task_push_button	8	static
+app.c:36:6:app_task_led_green	16	static
+app.c:52:6:app_task_led_blue	8	static

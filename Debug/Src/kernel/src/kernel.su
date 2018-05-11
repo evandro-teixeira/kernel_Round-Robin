@@ -1,0 +1,4 @@
+kernel.c:17:6:Kernel_Init	16	static
+kernel.c:28:6:Kernel_Add_Task	32	static
+kernel.c:72:6:Kernel_Start	24	static
+kernel.c:95:6:Kernel_Systick_Callback	0	static
